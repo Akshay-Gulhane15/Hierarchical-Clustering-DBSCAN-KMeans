@@ -1,6 +1,6 @@
 # Hierarchical-Clustering-DBSCAN-KMeans
 
-1.Hierarchical Clustering:
+1.Hierarchical CLUSTERING:
 
 -Hierarchical clustering is a method of cluster analysis that builds a hierarchy of clusters.
 
