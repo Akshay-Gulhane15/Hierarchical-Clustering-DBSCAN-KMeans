@@ -1,8 +1,11 @@
 # Hierarchical-Clustering-DBSCAN-KMeans
 
-1.Hierarchical CLUSTERING:
+1.HIERARCHICAL CLUSTERING:
 
--Hierarchical clustering IS a method of cluster analysis that builds a hierarchy of clusters.
+
+
+
+-Hierarchical clustering is a method of cluster analysis that builds a hierarchy of clusters.
 
 -It starts with each data point as its own cluster and then iteratively merges or splits clusters based on a specified criterion, such as distance or similarity.
 
@@ -13,6 +16,9 @@
 -Divisive hierarchical clustering starts with all points in one cluster and then recursively splits the cluster into smaller clusters until each point is in its own cluster.
 
 -Hierarchical clustering does not require specifying the number of clusters beforehand and can be visualized using dendrograms.
+
+
+
 
 
 2.DBSCAN (Density-Based Spatial Clustering of Applications with Noise):
@@ -26,7 +32,10 @@
 -Points that are within the epsilon distance of a core point are considered part of the same cluster, while points that are not within the epsilon distance of any core point are considered noise or outliers.
 
 
-3.K-Means Clustering:
+3.K-MEANS CLUSTERING:
+
+
+
 
 -K-means clustering is a centroid-based clustering algorithm that partitions data into a specified number of clusters (k).
 
