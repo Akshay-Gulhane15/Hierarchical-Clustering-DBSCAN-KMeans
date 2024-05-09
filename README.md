@@ -2,7 +2,7 @@
 
 1.Hierarchical CLUSTERING:
 
--Hierarchical clustering is a method of cluster analysis that builds a hierarchy of clusters.
+-Hierarchical clustering IS a method of cluster analysis that builds a hierarchy of clusters.
 
 -It starts with each data point as its own cluster and then iteratively merges or splits clusters based on a specified criterion, such as distance or similarity.
 
